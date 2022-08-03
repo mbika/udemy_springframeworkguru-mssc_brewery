@@ -1,4 +1,4 @@
-# udemy_springframeworkguru-mssc_brewery
+# mssc_brewery
 Developing Brewery microservices.
 
 
